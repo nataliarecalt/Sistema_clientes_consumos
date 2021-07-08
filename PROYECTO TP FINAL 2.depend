@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1624626474 source:d:\documentos\utn\cursada\programacion y laboratorio\tp final\nueva carpeta\proyecto tp final 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1624662026 source:d:\escritorio\proyecto tp final 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1624662026 source:d:\escritorio\proyecto tp final 2 - copia (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1624662026 source:d:\escritorio\final final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1624747029 source:d:\escritorio\tp finalizado (zip)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
